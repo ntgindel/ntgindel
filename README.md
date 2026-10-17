@@ -1,24 +1,30 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![GitHub followers](https://img.shields.io/github/followers/ntgindel?label=Followers&style=flat-square)](https://github.com/ntgindel)
+[![GitHub Repo stars](https://img.shields.io/github/stars/ntgindel?style=flat-square)](https://github.com/ntgindel)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I’m Noah Gindelberger — a Computer Science student at the University of Washington with a passion for building practical software, solving real-world problems, and exploring how hardware and software work together.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+I enjoy working on projects that blend data, automation, and systems thinking, from cleaning and analyzing datasets to creating useful tools for workflows and operations.
+
+- 📍 Location: Seattle, Washington
+- 🎓 Education: University of Washington, Seattle — Computer Science Major (Direct Admit)
+- 🌐 LinkedIn: [linkedin.com/in/noah-gindelberger](https://linkedin.com/in/noah-gindelberger)
+- 💻 GitHub: [github.com/ntgindel](https://github.com/ntgindel)
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎲 Warehouse Asset Tracker — Built a Node-RED and SQL-based inventory system to monitor pallets and boxes, improving tracking and supply-chain organization. (JavaScript, SQL, Node-RED) — github.com/ntgindel/warehouse-asset-tracker
+- 🛠️ Employee Workflow Automation — Created automated onboarding and offboarding processes in Microsoft Power Apps to streamline internal IT operations. (Power Apps, Excel, Workflow Automation) — github.com/ntgindel/employee-workflow-automation
+- 🤖 Sensor Data Collection Interface — Developed C-based software to communicate with hardware sensors for real-time data acquisition and analysis. (C, Embedded Systems) — github.com/ntgindel/sensor-data-interface
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: C, Python, Java, JavaScript
+- 🔭 Focus: Data analysis, hardware-software interfacing, automation, systems design
+- ❤️ Interests: problem solving, workflow optimization, clean technical tooling, learning new technologies
+
+## Highlights
+- AP Scholar with Distinction
+- National German Exam: Four-Time Medalist — Bronze (2022), Silver (2023), Gold (2024), Silver (2025)
+- Global Seal of Biliteracy: Working Fluency in German
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
